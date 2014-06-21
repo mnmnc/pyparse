@@ -22,3 +22,5 @@ to this one:
 The columns NOFA and NOFP are showing number of accounts and number of ports used respectively. The date showed can be read as ‘last seen’ for particular IP address.
 
 The example output:
+![Auth log parsing output](https://raw.githubusercontent.com/mnmnc/img/master/auth.jpg)
+
