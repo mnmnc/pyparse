@@ -1,6 +1,6 @@
 # PyParse
 
-A simple Apache2 log parser written in Python3.
+A simple authentication log parser written in Python3.
 
 ### Required modules
 * re
